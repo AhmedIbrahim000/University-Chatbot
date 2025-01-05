@@ -19,7 +19,7 @@ Objectives:
   Minimize the time required to solve the quires.
   give response to user based on user quires.
 
-Systemarchitecture:
+System architecture:
 ![image](https://github.com/user-attachments/assets/7823aa76-df02-41bc-9a5c-49b1a4df0488)
 
 Development tools:
